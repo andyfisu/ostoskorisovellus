@@ -1,0 +1,14 @@
+C:\Users\antti\OneDrive - Centria ammattikorkeakoulu Oy\Tiedostot\Ohjelmoinnin peruskurssi lopputyö\bin\Debug\net10.0\Ohjelmoinnin peruskurssi lopputyö.exe
+C:\Users\antti\OneDrive - Centria ammattikorkeakoulu Oy\Tiedostot\Ohjelmoinnin peruskurssi lopputyö\bin\Debug\net10.0\Ohjelmoinnin peruskurssi lopputyö.deps.json
+C:\Users\antti\OneDrive - Centria ammattikorkeakoulu Oy\Tiedostot\Ohjelmoinnin peruskurssi lopputyö\bin\Debug\net10.0\Ohjelmoinnin peruskurssi lopputyö.runtimeconfig.json
+C:\Users\antti\OneDrive - Centria ammattikorkeakoulu Oy\Tiedostot\Ohjelmoinnin peruskurssi lopputyö\bin\Debug\net10.0\Ohjelmoinnin peruskurssi lopputyö.dll
+C:\Users\antti\OneDrive - Centria ammattikorkeakoulu Oy\Tiedostot\Ohjelmoinnin peruskurssi lopputyö\bin\Debug\net10.0\Ohjelmoinnin peruskurssi lopputyö.pdb
+C:\Users\antti\OneDrive - Centria ammattikorkeakoulu Oy\Tiedostot\Ohjelmoinnin peruskurssi lopputyö\obj\Debug\net10.0\Ohjelmoinnin peruskurssi lopputyö.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antti\OneDrive - Centria ammattikorkeakoulu Oy\Tiedostot\Ohjelmoinnin peruskurssi lopputyö\obj\Debug\net10.0\Ohjelmoinnin peruskurssi lopputyö.AssemblyInfoInputs.cache
+C:\Users\antti\OneDrive - Centria ammattikorkeakoulu Oy\Tiedostot\Ohjelmoinnin peruskurssi lopputyö\obj\Debug\net10.0\Ohjelmoinnin peruskurssi lopputyö.AssemblyInfo.cs
+C:\Users\antti\OneDrive - Centria ammattikorkeakoulu Oy\Tiedostot\Ohjelmoinnin peruskurssi lopputyö\obj\Debug\net10.0\Ohjelmoinnin peruskurssi lopputyö.csproj.CoreCompileInputs.cache
+C:\Users\antti\OneDrive - Centria ammattikorkeakoulu Oy\Tiedostot\Ohjelmoinnin peruskurssi lopputyö\obj\Debug\net10.0\Ohjelmoinnin peruskurssi lopputyö.dll
+C:\Users\antti\OneDrive - Centria ammattikorkeakoulu Oy\Tiedostot\Ohjelmoinnin peruskurssi lopputyö\obj\Debug\net10.0\refint\Ohjelmoinnin peruskurssi lopputyö.dll
+C:\Users\antti\OneDrive - Centria ammattikorkeakoulu Oy\Tiedostot\Ohjelmoinnin peruskurssi lopputyö\obj\Debug\net10.0\Ohjelmoinnin peruskurssi lopputyö.pdb
+C:\Users\antti\OneDrive - Centria ammattikorkeakoulu Oy\Tiedostot\Ohjelmoinnin peruskurssi lopputyö\obj\Debug\net10.0\Ohjelmoinnin peruskurssi lopputyö.genruntimeconfig.cache
+C:\Users\antti\OneDrive - Centria ammattikorkeakoulu Oy\Tiedostot\Ohjelmoinnin peruskurssi lopputyö\obj\Debug\net10.0\ref\Ohjelmoinnin peruskurssi lopputyö.dll
